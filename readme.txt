@@ -1,4 +1,4 @@
-https://github.com/uysalf/react-typescript-exaples.git
+https://www.youtube.com/watch?v=UWYOC8g5N_0&list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG&index=1
 
 https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
 /Users/fatihuysal/Projects/react/reactTypeScript/react-typescript-demo.
