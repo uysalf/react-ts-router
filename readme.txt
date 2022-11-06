@@ -70,5 +70,11 @@ git checkout otherBranch
 git rebase master
 senkronize et
 
-test test test abc xyz aaaa bbb ccc ddd eee fff ggg
+ npm install gh-pages --save-dev
+"homepage": "http://uysalf.github.io/react-ts-router",
+ scripts:
+   "start": "react-scripts start",
+    "predeploy": "npm run build",
 
+npm run deploy   
+git save changes
